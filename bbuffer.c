@@ -5,13 +5,6 @@
  * 
 */
 
-/*
- * Program 3
- * Name: Schuyler Wang
- * cssc1766@edoras.sdsu.edu
- * July 26, 2023
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "bbuffer.h"
