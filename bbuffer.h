@@ -1,15 +1,3 @@
-/*
- *  This header file is for programming #3.  
- *  You may need to add more comments to explain your code ... 
- */
-
-/*
- * Program 3
- * Name: Schuyler Wang
- * cssc1766@edoras.sdsu.edu
- * July 26, 2023
- */
-
 #include <pthread.h>
 #include <semaphore.h>
 #include <unistd.h>
